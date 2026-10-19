@@ -1,0 +1,1 @@
+This code is the code for the "Biology-guided Environmental Age-gap Distillation (BEAD)" architecture in "Biology-guided distillation recovers multiorgan ageing signals from environmental information".
